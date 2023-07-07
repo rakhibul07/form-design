@@ -4,8 +4,11 @@
 }
 .body{
     background-image: url(images/form.jpg);
+    background-repeat: no-repeat
+    ;
    background-size: cover;
     background-size: 100%
+
 }
 div.main{
 width: 400px;
